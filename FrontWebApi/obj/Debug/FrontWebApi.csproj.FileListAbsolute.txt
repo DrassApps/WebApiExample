@@ -1,0 +1,8 @@
+C:\Users\MASDADM\Documents\Visual Studio 2017\Projects\WebApiExample\FrontWebApi\bin\FrontWebApi.dll.config
+C:\Users\MASDADM\Documents\Visual Studio 2017\Projects\WebApiExample\FrontWebApi\bin\FrontWebApi.dll
+C:\Users\MASDADM\Documents\Visual Studio 2017\Projects\WebApiExample\FrontWebApi\bin\FrontWebApi.pdb
+C:\Users\MASDADM\Documents\Visual Studio 2017\Projects\WebApiExample\FrontWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MASDADM\Documents\Visual Studio 2017\Projects\WebApiExample\FrontWebApi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MASDADM\Documents\Visual Studio 2017\Projects\WebApiExample\FrontWebApi\obj\Debug\FrontWebApi.csproj.CoreCompileInputs.cache
+C:\Users\MASDADM\Documents\Visual Studio 2017\Projects\WebApiExample\FrontWebApi\obj\Debug\FrontWebApi.dll
+C:\Users\MASDADM\Documents\Visual Studio 2017\Projects\WebApiExample\FrontWebApi\obj\Debug\FrontWebApi.pdb

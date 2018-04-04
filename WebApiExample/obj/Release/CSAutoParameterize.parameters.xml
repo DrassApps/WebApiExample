@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="WebApiExampleContext-Web.config Connection String" description="WebApiExampleContext Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=WebApiExampleContext-20180403182640; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|WebApiExampleContext-20180403182640.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\MASDADM\\Documents\\Visual\ Studio\ 2017\\Projects\\WebApiExample\\WebApiExample\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='WebApiExampleContext']/@connectionString" />
+  </parameter>
+</parameters>
